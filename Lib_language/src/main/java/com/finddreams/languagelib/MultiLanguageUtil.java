@@ -8,6 +8,8 @@ import android.os.Build;
 import android.os.LocaleList;
 import android.util.DisplayMetrics;
 
+import com.catail.lib_language.R;
+
 import org.greenrobot.eventbus.EventBus;
 
 import java.util.Locale;
